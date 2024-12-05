@@ -1,0 +1,20 @@
+year,circuit_name,driver_code,quali_classification_time_ms,quali_position
+2022,Track A,DR1,10.3,1
+2022,Track A,DR2,20.4,3
+2022,Track A,DR3,30.5,4
+2022,Track B,DR1,30.3,1
+2022,Track B,DR2,31.4,2
+2022,Track B,DR3,32.4,3
+2022,Track B,DR4,40.6,4
+2022,Track A,DR1,11.3,2
+2023,Track A,DR2,21.4,1
+2023,Track A,DR3,31.5,2
+2023,Track B,DR1,31.3,1
+2023,Track B,DR2,32.4,2
+2023,Track B,DR3,33.4,3
+2023,Track B,DR4,41.6,4
+2023,Track C,DR1,12.3,1
+2023,Track C,DR2,22.4,2
+2023,Track C,DR3,32.5,3
+2023,Track C,DR4,42.6,4
+2023,Track C,DR5,52.7,5
